@@ -19,3 +19,7 @@ touch index.html
 ```
 - index.html에 파일 내용 복사하기
 - index.html 실행하기
+
+## Result
+- reuslt1
+![result1](./result1.png)
