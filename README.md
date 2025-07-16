@@ -1,14 +1,13 @@
 # English Study
 
 ## Certificate
-1) TOEIC Speaking
-2) TOEIC
-3) TOEIC Writing
-4) OPIC
-5) IELTS
+1) TOEIC Speaking(160+)
+2) TOEIC(800+)
+3) TOEIC Writing(160+)
+4) OPIC(AL+)
+5) IELTS(7.0+)
 
 ## [TOEIC SPEAKING](https://www.toeicswt.co.kr/)
-
 #### 유형
 | 파트 | 유형 | 문항수 | 답변 준비 시간 | 답변 시간 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -17,7 +16,6 @@
 | Part3 | 듣고 질문에 답하기 | 3문항 | 문항당 3초 | 15-30초 |
 | Part4 | 제공된 정보를 사용하여 질문에 답하기 | 3문항 | 문항당 3초 | 15-30초 |
 | Part5 | 의견 제시하기 | 1문항 | 45초 | 60초 |
-
 
 
 ## [TOEIC](https://www.toeicswt.co.kr/)
@@ -34,7 +32,6 @@
 
 
 ## [TOEIC WRITING](https://www.toeicswt.co.kr/)
-
 #### 유형
 | 파트 | 유형 | 문항수 | 답변 시간 |
 | :---: | :---: | :---: | :---: |
@@ -43,5 +40,7 @@
 | Part3 | 의견 기술하기 | 1문항 | 30분 |
 
 ## [OPIC](https://www.opic.or.kr/opics/jsp/view/index.jsp)
+#### 유형
 
 ## [IELTS](https://ieltskorea.org/korea)
+#### 유형
