@@ -15,3 +15,9 @@
 
 ## 학습도구
 - [music player](./02_toeic/music_player/)
+
+## 점수기록
+#### TOEIC Speaking
+- 2024.07.28 IH(140)
+
+#### TOEIC 
