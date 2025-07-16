@@ -22,4 +22,4 @@ touch index.html
 
 ## Result
 - reuslt1
-![result1](./result1.png)
+![result1](./result/result1.png)
