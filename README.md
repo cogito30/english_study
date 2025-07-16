@@ -14,7 +14,7 @@
 5) [IELTS](05_ielts/README.md)
 
 ## 학습도구
-- [music player](./02_toeic/music_player/)
+- [music player](./00_tool/music_player/)
 
 ## 점수기록
 #### TOEIC Speaking
