@@ -25,7 +25,23 @@
 - 열거하는 단어 하나씩 끊어 읽기
 
 ## Part2: 사진 묘사하기
-- 
+1. 사진 묘사 표현
+(장소)
+- This photo was taken ~
+- This is a picture of ~
+(눈에 띄는 대상)
+- What I notice first is ~
+- The first thing I see is ~
+(주변 묘사)
+- In front of ~, I can see ~
+- Behind ~, ~ can be seen ~
+- On the left(right) side of ~, there is(are) ~
+- Above(Below) ~, there is(are) ~
+- In the foreground(background) of the picture, there is(are) ~
+(느낌/의견 묘사)
+- Generally(Basically), it seems like ~
+- Overall, it appears to be ~
+- To summerize, it seems like ~
 
 ## Part3
 
