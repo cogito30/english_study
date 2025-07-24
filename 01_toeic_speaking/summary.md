@@ -71,7 +71,7 @@
 | :---: | :---: |
 | 서론 | This is a picture taken \[at/in (장소) | indoors | outdoors\] | 
 | 전체요약(생략가능) | The first thing I can see from this picture is 사람/사물 | 
-| 세부사항(위치별) | In the foreground of the picture, there is/are 사람/사물 I can see 단/복수명사 | 
+| 세부사항(위치별) | In the foreground of the picture, \[there is/are 사람/사물 | I can see 단/복수명사\] | 
 |  |  |
 
 ## Part3
