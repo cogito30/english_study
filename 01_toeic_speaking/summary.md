@@ -67,7 +67,6 @@
 
 #### 3. 템플릿
 
-|  |  |
 | :---: | :---: |
 | 서론 | This is a picture taken \[at/in (장소) | indoors | outdoors\] | 
 | 전체요약 | The first thing I can see from this picture is 사람/사물 | 
