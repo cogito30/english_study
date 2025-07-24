@@ -66,13 +66,13 @@
 - 날씨/계절: a sunny day / a rainy day / a cold day / spring / summer / fall / winter
 
 #### 3. 템플릿
-
 |  |  |
 | :---: | :---: |
 | 서론 | This is a picture taken \[at/in (장소) \| indoors \| outdoors\] | 
 | 전체요약(생략가능) | The first thing I can see from this picture is 사람/사물 | 
-| 세부사항(위치별) | In the foreground/background of the picture, \[there is/are 사람/사물 \| I can see 단/복수명사\] | 
-|  |  |
+| 세부사항(위치별) | In the foreground/middle/background of the picture, \[there is/are 사람/사물 \| I can see 단/복수명사\] | 
+| 세부사항(위치별) | On the left/right/both side of the picture, \[there is/are 사람/사물 \| I can see 단/복수명사\] | 
+| 마무리(1인 유형만) | Overall, It seems/looks like 주어 + 동사 |
 
 ## Part3
 
