@@ -73,6 +73,9 @@
 | 세부사항(위치별) | In the foreground/middle/background of the picture, \[there is/are 사람/사물 \| I can see 단/복수명사\] | 
 | 세부사항(위치별) | On the left/right/both side of the picture, \[there is/are 사람/사물 \| I can see 단/복수명사\] | 
 | 마무리(1인 유형만) | Overall, It seems/looks like 주어 + 동사 |
+- one of them / the other
+- one of them / the rest of them(=the others)
+- some of them / most of them
 
 ## Part3
 
