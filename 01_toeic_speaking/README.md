@@ -36,6 +36,7 @@
   - 기출: ETS 토익스피킹 기출문제집 최신 12회
 - 강의
   - [시계토끼제니쌤](https://www.youtube.com/@rabbit_jennycha/videos)
+  - [헤이 클레어](https://www.youtube.com/@claire_hey/videos)
   - [제이크 토익스피킹](https://www.youtube.com/@%EC%A0%9C%EC%9D%B4%ED%81%AC%ED%86%A0%EC%9D%B5%EC%8A%A4%ED%94%BC%ED%82%B9)
   - [토익스피킹 오픽 해커스 TV](https://www.youtube.com/@%ED%95%B4%EC%BB%A4%EC%8A%A4%ED%86%A0%EC%9D%B5%EC%8A%A4%ED%94%BC%ED%82%B9%EC%98%A4%ED%94%BD/videos)
 
