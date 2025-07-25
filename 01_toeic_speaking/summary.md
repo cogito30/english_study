@@ -78,6 +78,72 @@
 - some of them / most of them
 
 ## Part3
+#### 1. 질문별 응답
+- How often/How many times: once a month/every other month/three times a year
+- How long/How many hours: for two hours/for almost an hour/for approximately 30 minutes
+- How: by subway/by bus/on foot
+- When/What time: on their birthdays/when they get promoted/at Chrismas
+- On what occasions: for people's birthdays/only during holidays/sometimes for parties
+- Where/What place: at a shop in the mall/on the Internet/from a store near my home
+- What: the news/a comedy show/a documentary about health/a program about th environment/a weather report/a popular talk show
+- What kinds of: science fictino/mystery novels/nonfiction/comic books
+
+#### 2. 빈출 표현
+(선호/취향)
+- I prefer A to B
+- I enjoy ~
+- I like ~ because ~
+- If I could ~, I would ~
+- My favorite A is/are ~
+
+(의견/주장)
+- In my opinion
+- I think ~
+- In my case ~
+
+(특징/장단점)
+- The charateristics of A are ~
+- The most important qualities in/of A are ~
+- The advantages/disadvantages of A are ~
+
+(이유/근거)
+- That's because ~
+- First/First of all
+- Second/Secondly
+- In addition/Also
+- For these reasons
+- Therefore
+
+(생활)
+- good for relieving stress
+- go out with friends
+- share opinions
+- eat out
+- have a big family
+
+(제품)
+- offer a variety of products
+- take up a lot of space
+- easy to busy
+- travel guidebook
+- lend ~ to a friend
+- affordable
+
+(서비스)
+- do banking
+- wasting time ~ing
+- in a rush
+- check an e-mail
+- cost much money
+- save a lot of time
+
+#### 3. 템플릿
+| 구성 | 예시 |
+| :---: | :---: |
+| 응답 | 질문 표현 + 의문사별 응답 |
+| 근거 1 | First of all, ~ |
+| 근거 2 | Secondly/Also, ~ |
+| 마무리 | So, Therefore, These are how ~ |
 
 ## Part4
 
