@@ -140,7 +140,7 @@
 #### 3. 템플릿
 | 구성 | 예시 |
 | :---: | :---: |
-| 응답 | 질문 표현 + 의문사별 응답 |
+| 응답 | 질문 표현 + 의문사별 응답 \| I think N is the most important (factor) |
 | 근거 1 | First of all, ~ |
 | 근거 2 | Secondly/Also, ~ |
 | 마무리 | So, Therefore, These are how ~ |
