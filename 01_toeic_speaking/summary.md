@@ -164,9 +164,25 @@
 - 실내, 도시, 나라: In + 실내장소/도시/나라
 
 #### 3. 템플릿
+(일정표)
 - It/행사 will be held + 시간/장소
 - It/행사 will start at 시각
 - It/행사 will finish at 시각 
- 
+
+- There are two ~.
+- First, There is ~ on ~ by ~ at ~.
+- Next, There is ~ on ~ by ~ at ~.
++) 주제: on, about
++) 강연자: by
+
+(개인일정표)
+- S will V
+- You will depart from 출발지 on 비행편
+- You will arrive in 도착지
+- You will take 교통
+- You will stay at 장소
+- You wil have lunch/dinner/a meeting
+- S will give a speech/a lecture/a presentation
+- There was supposed to be 일정, but it has been canceled
 
 ## Part5
