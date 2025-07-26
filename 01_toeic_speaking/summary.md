@@ -164,6 +164,9 @@
 - 실내, 도시, 나라: In + 실내장소/도시/나라
 
 #### 3. 템플릿
+- It/행사 will be held + 시간/장소
+- It/행사 will start at 시각
+- It/행사 will finish at 시각 
  
 
 ## Part5
