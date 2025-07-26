@@ -138,7 +138,7 @@
 - save a lot of time
 
 #### 3. 템플릿
-- Q5-Q6
+(Q5-Q6)
 | 구성 | 예시 |
 | :---: | :---: |
 | 응답 | 질문 표현 + 의문사별 응답 |
@@ -146,7 +146,7 @@
 | 근거 2 | Secondly/Also, ~ |
 | 마무리 | So, Therefore, These are how ~ |
 
-- Q7
+(Q7)
 | 구성 | 예시 |
 | :---: | :---: |
 | 서론 | I think N is the most important (factor) |
