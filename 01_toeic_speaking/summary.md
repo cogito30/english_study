@@ -214,4 +214,13 @@
 - 평가기준: 명확한 의견/뒷받침하는 이유와 예시/일관적인 논리/명료한 전달
 
 ### 3. 템플릿
+| 구성 | 예시 |
+| :---: | :---: |
+| 서론 | 문제에 맞는 결론 |
+| 연결문장 | Let me explain why i think this way |
+| 이유1 | Most of all, S + V (if S + V) |
+| 예시1 | From my experience, S + V |
+| 이유2 | On top of that, S + V (if S + V) |
+| 예시2 | According to a recent news report, the majority of 사람들 in Korea said that S + V (if/when S + V) |
+| 결론 | Therefore, 서론 문장 반복 |
 
