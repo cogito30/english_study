@@ -138,12 +138,23 @@
 - save a lot of time
 
 #### 3. 템플릿
+- Q5-Q6
 | 구성 | 예시 |
 | :---: | :---: |
-| 응답 | 질문 표현 + 의문사별 응답 \| I think N is the most important (factor) |
+| 응답 | 질문 표현 + 의문사별 응답 |
 | 근거 1 | First of all, ~ |
 | 근거 2 | Secondly/Also, ~ |
 | 마무리 | So, Therefore, These are how ~ |
+
+- Q7
+| 구성 | 예시 |
+| :---: | :---: |
+| 서론 | I think N is the most important (factor) |
+| 이유1 | First, ~ |
+| 이유2 | Second/Also, ~ |
+| 마무리(생략) | Therefore, 서론 문장 반복 |
+
+
 
 ## Part4
 
