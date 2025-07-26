@@ -224,3 +224,10 @@
 | 예시2 | According to a recent news report, the majority of 사람들 in Korea said that S + V (if/when S + V) |
 | 결론 | Therefore, 서론 문장 반복 |
 
+- I agree/disagree with the statement(=this opinion)
+- Employees can work more efficiently and productively
+- Employees can be more satisfied with their jobs
+- 
+
+
+
