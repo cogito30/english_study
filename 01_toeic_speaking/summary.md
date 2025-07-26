@@ -185,4 +185,9 @@
 - S will give a speech/a lecture/a presentation
 - There was supposed to be 일정, but it has been canceled
 
+(이력서)
+- He/She got a bachelor's/master's degree in 전공 from 학교 in 년도
+- From 시작일 to 종료일, he/she worked at 회사명 as 직책
+- From 시작일 up to now, he/she has worked at 회사명 as 직책
+
 ## Part5
