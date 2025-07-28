@@ -1,0 +1,111 @@
+# 문장 모음
+
+## Part1
+
+## Part2
+
+## Part3
+1. 이것은 나의 스트레스를 풀어준다. 나는 요즘 스트레스를 많이 받았다. 그래서 이것이 필요하다
+- It relieves my stress. I'm stressed out these days. So, I need this.
+2. 이것은 더 싸서 돈을 절약할 수 있다.
+- It's cheaper, so I can save money.
+3. 가격이 저렴하다
+- The price is reasonable.
+4. 이것은 더 빨라서 시간을 절약할 수 있다.
+- It's faster, so i can save time
+5. 나는 친구들에게 많은 유용한 정보를 얻을 수 있다.
+- I can get a lot of useful information from my friends.
+6. 나는 책에서 많은 유용한 정보를 얻을 수 있다.
+- I can get a lot of useful information from books.
+7. 나는 인터넷에서 많은 유용한 정보를 얻을 수 있다.
+- I can get a lot of useful information on the internet.
+8. 이것은 더 믿을 만해서 정보가 더 신뢰가 간다
+- It's more reliable,  so the information is more trustworthy.
+9. 나는 정보를 언제, 어디서나 내 스마트폰으로 얻을 수 있다.
+- I can get information anytime anywhere on my smartphone.
+10. 이거은 더 개인적이고, 더 밀접한 인간관계를 쌓을 수 있다.
+- It is more personal, and builds a closer relationship.
+11. 이것은 오해를 덜 불러일으킨다
+- It causes less misunderstanding.
+12. 이것은 내가 가장 좋아하는 일이다.
+- It's my favorite thing to do.
+13. 이것은 나를 행복하게 해주고, 그래서 나는 걱정 근심을 잊을 수 있다.
+- It makes me happy, so I can forget about my worries. 
+14. 이것은 좋은 시설ㅇ르 가지고 있다.
+- It has great facilites.
+15. 이곳은 인기 있는 곳이라, 사람들이 좋아한다
+- It's a well-liked place, so people love it
+16. 나는 학생이라 예산이 빠듯하다
+- I'm a student, so my budget is tight.
+17. 나는 비싼 것을 살 여유가 없다
+- I can't afford to buy expensive things.
+18. 나는 그것에 지나치게 많은 돈을 쓰고 싶지 않다.
+- I don't want to waste too much money on that
+19. 이것은 돈 낭비다
+- It's a waste of money
+20. 나는 학생이어서 학업에 바쁘다
+- I'm a student and I'm so busy with my school work
+21. 나는 시간이 많이 없다
+- I don't have much time
+22. 나는 그것에 지나치게 많은 시간을 낭비하기 싫다.
+- I don't want to waste too much time on that.
+23. 이것은 시간 낭비다
+- It's a waste of time.
+24. 이것은 더 재밌고 즐거움을 주는 일이다. 그래서 나는 지루해지지 않는다.
+- It's more fun and entertaining, so I don't get bored.
+25. 나는 같이 하는 것이 더 재미있다고 생각한다.
+- I think it's more fun to do things in a group
+26. 나는 새로운 사람을 만날 수 있고 친구를 만들 수 있다.
+- 
+27.
+- 
+28.
+- 
+29.
+- 
+30.
+- 
+31.
+- 
+32.
+- 
+33.
+- 
+34.
+- 
+35.
+- 
+36.
+- 
+37.
+- 
+38.
+- 
+39.
+- 
+40.
+- 
+41.
+- 
+42.
+- 
+43.
+- 
+44.
+- 
+45.
+- 
+46.
+- 
+47.
+- 
+48.
+- 
+49.
+- 
+50.
+- 
+
+## Part4
+
+## Part 5
