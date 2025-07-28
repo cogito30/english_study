@@ -71,14 +71,14 @@
 - They are too outdated so I think it's good to have new ones.
 33. 여기에 더 많은 가게가 있다면, 더 편리할 것이다
 - If we have more stores here, it would be more convenient.
-34.
-- 
-35.
-- 
-36.
-- 
-37.
-- 
+34. 이것은 나에게 매우 필요한 것이다.
+- It's very necessary for me
+35. 나는 그것을 자주 이용한다.
+- I frequently use it.
+36. 이것은 나를 행복하게 해주고 나는 좋은 경험을 할 수 있다.
+- It makes me happy and I can have a great experience
+37. 그들은 행복한 분위기와 기분 좋은 경험을 제공한다.
+- They provide a happy environment and a pleasant experience
 38.
 - 
 39.
