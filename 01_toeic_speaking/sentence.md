@@ -56,21 +56,21 @@
 25. 나는 같이 하는 것이 더 재미있다고 생각한다.
 - I think it's more fun to do things in a group
 26. 나는 새로운 사람을 만날 수 있고 친구를 만들 수 있다.
-- 
-27.
-- 
-28.
-- 
-29.
-- 
-30.
-- 
-31.
-- 
-32.
-- 
-33.
-- 
+- I can meet new people and make friends.
+27. 나는 더 편암함을 느끼고 더 잘 집중할 수 있다
+- I feel more comfortable and I can focus better
+28. 나는 다른 사람들을 기다리느라 시간을 낭비할 필요가 없다
+- I don't have to waste time waiting for other people.
+29. 나는 집에서 더 편안함을 느낀다
+- I feel more comfortable at home
+30. 나는 시간을 절약할 수 있는데 밖에 나가느라 시간을 낭비할 필요가 없기 때문이다
+- I can save time because I don't have to waste time going out
+31. 그것들은 너무 오래되어서 새로운 것이 생기면 좋을 것 같다.
+- They are too old so I think it's good to have new ones.
+32. 그것들은 너무 구식이어서 새로운 것이 있으면 더 나을 것 같다
+- They are too outdated so I think it's good to have new ones.
+33. 여기에 더 많은 가게가 있다면, 더 편리할 것이다
+- If we have more stores here, it would be more convenient.
 34.
 - 
 35.
