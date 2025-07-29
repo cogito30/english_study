@@ -1,10 +1,18 @@
 # English Study
 
 ## Object
-- 영어로 강의 듣기 -> Listening
-- 영어로 공식문서 읽기 -> Reading
-- 영어로 소통하기 -> Speaking
-- 영어로 문서 작성하기 -> Writing
+- Listening: 영어 강의 듣기
+- Reading: 공식문서(영어) 읽기
+- Speaking: 영어로 정보 전달/설명하기
+-  Writing: 영어로 문서 작성하기
+
+## 학습 순서
+| 시험명 | 최소목표점수 | 개인목표점수 |
+| :---: | :---: | :---: |
+| 토익스피킹 | 140+ | 160+ |
+| 토익 | 700+ | 850+ |
+| 토익라이팅 | 140+ | 160+ |
+| IELTS | 6.5+ | 7.0+ |
 
 ## Certificate
 1) [TOEIC Speaking](./01_toeic_speaking/README.md)
