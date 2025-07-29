@@ -79,32 +79,32 @@
 - It makes me happy and I can have a great experience
 37. 그들은 행복한 분위기와 기분 좋은 경험을 제공한다.
 - They provide a happy environment and a pleasant experience
-38.
-- 
-39.
-- 
-40.
-- 
-41.
-- 
-42.
-- 
-43.
-- 
-44.
-- 
-45.
-- 
-46.
-- 
-47.
-- 
-48.
-- 
-49.
-- 
-50.
-- 
+38. 이것은 더 믿을 만해서 나는 그 제품을 신뢰할 수 있다.
+- It's more reliable and I can trust the product.
+39. 이것은 인기있는 아이템이라서 사람들이 좋아할 것이다
+- It's a popular item so people will love it
+40. 이것은 의미가 깊다
+- It has sentimetal value.
+41. 나는 새로운 것을 시도해 보는 것을 좋아한다.
+- I like to try new things.
+42. 이것은 좋은 선물이다
+- It's a good gift.
+43. 이것은 내 일상의 일부다
+- It's part of my routine
+44. 이것은 내 습관이다
+- It's my habit
+45. 난 그것이 정말 좋았었다.
+- I really liked it
+46. 그것은 훌륭했다.
+- It was great.
+47. 그것은 매우 근사했다
+- It was awesome
+48. 이것은 더 싸고 빠르다
+- It's cheaper and faster
+49. 이것은 매우 유용하고 편리하다.
+- It's very useful and convenient
+50. 이것은 나에게 매우 도움이 된다
+- It's very helpful for me
 
 ## Part4
 
