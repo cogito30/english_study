@@ -109,3 +109,67 @@
 ## Part4
 
 ## Part 5
+1. 그들은 새로운 것을 배울 수 있다.
+- They can learn new things
+2. 그들은 새로운 사람을 만나고 인맥을 넓힐 수 있다.
+- They can meet new people and expand their network
+3. 그들은 많은 (새로운) 것을 경험하고 그들의 견문을 넓힐 수 있다
+- They can have a lot of (new) experience and boarden their perspective
+4. 그들은 좋은 결정을 하지 못하는데 왜냐하면 아직 충분히 성숙하지 못했기 때문이다.
+- They can't make good decisions because they are not mature enough
+5. 그들은 집중을 못하게 될 것이다.
+- They will be distracted
+6. 
+- 
+7. 
+- 
+8. 
+- 
+9. 
+- 
+10. 
+- 
+11.
+- 
+12.
+- 
+13.
+- 
+14.
+- 
+15.
+- 
+16.
+- 
+17.
+- 
+18.
+- 
+19.
+- 
+20.
+- 
+21. 
+- 
+22.
+- 
+23.
+- 
+24.
+- 
+25.
+- 
+26.
+- 
+27.
+- 
+28.
+- 
+29.
+- 
+30. 
+- 
+
+
+58. 
+- 
