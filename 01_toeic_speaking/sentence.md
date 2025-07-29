@@ -119,8 +119,8 @@
 - They can't make good decisions because they are not mature enough
 5. 그들은 집중을 못하게 될 것이다.
 - They will be distracted
-6. 
-- 
+6. 그들은 그들의 학업/업무에 집중할 수 없다 
+- They can't focus on their studies/work
 7. 
 - 
 8. 
