@@ -2,22 +2,33 @@
 
 ## 전체 요약
 #### Part2
+- 포괄적 묘사 우선
+- 모르는 용어는 포괄적 용어로 대처
+- one of them/the other
+- one of them/the others
+- some of them/most of them
+
 | 구성 | 예시 |
 | :---: | :---: |
 | 서론 | This is a picture taken \[at/in (장소) \| indoors \| outdoors\] | 
-| 전체요약(생략가능) | The first thing I can see from this picture is 사람/사물 | 
+| 전체요약(생략가능) | The first thing I can see from this picture is 사람/사물 (수식) | 
 | 세부사항(위치별) | In the foreground/middle/background of the picture, \[there is/are 사람/사물 \| I can see 단/복수명사\] | 
 | 세부사항(위치별) | On the left/right/both side of the picture, \[there is/are 사람/사물 \| I can see 단/복수명사\] | 
-| 마무리(1인 유형만) | Overall, It seems/looks like 주어 + 동사 |
+| 마무리(1인 유형만)/기타 사물배경 | Overall, It seems/looks like 주어 + 동사 |
+
 
 #### Part3
+- about 뒤의 주제 파악
+
 (Q5-Q6)
+- I think N is the most important (factor)
+
 | 구성 | 예시 |
 | :---: | :---: |
 | 응답 | 질문 표현 + 의문사별 응답 |
 | 근거 1 | First of all, ~ |
 | 근거 2 | Secondly/Also, ~ |
-| 마무리 | So, Therefore, These are how ~ |
+| 마무리 | So/Therefore, These are how ~ |
 
 (Q7)
 | 구성 | 예시 |
