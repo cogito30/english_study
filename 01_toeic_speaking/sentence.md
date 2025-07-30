@@ -144,39 +144,41 @@
 ## Part4
 (일정표)
 1. 컴퍼런스가 6월 20일 힐튼 호텔에서 개최될 예정입니다.
-- 
+- The conference will be held on June 20th at Hilton Hotel
 2. 미팅은 오전 9시에 시작할 것입니다.
-- 
+- The meeting will start at 9:00 am
 3. 세미나는 오후 5시에 끝날 것입니다.
-- 
+- The seminar will finish at 5:00 pm
 4. 아니요. 유감스럽게도 잘못 알고 계십니다. 사실 등록 및 커피 타임은 오전 9시에 시작될 것입니다.
-- 
+- No, I'm afraid that you have the wrong information. Actually, the registration and coffee session will start at 9:00 am
 5. 2개의 세션이 있습니다. 먼저, 오후 1시에는 소셜미디어 마케팅에 관한 레이 킹스턴의 워크숍이 있습니다. 다음으로 오후 2시 30분에는 마케팅을 통해 스포츠 팬들에게 어필하는 것에 대한 케빈 델몬트의 토론이 있습니다.
-- 
+- There are two sessions
+- First, at 1 pm, there is a workshop on social media marketing by Ray Kingston.
+- Next, at 2:30 pm, there is a discussion on appealing to sports fans through marketing by Kevin Delmont
 6. 당신은 10시에 아메리칸 에어 105기를 타고 샌프란시스코에서 출발할 것입니다.
-- 
+- You will depart from San Francisco at 10 am on American Air 105
 7. 당신은 로스앤젤레스에 오후 3시에 도착할 것입니다
-- 
+- You will arrive in Los Angeles at 3 pm
 8. 당신은 대항한공 105기를 탈 것입니다
-- 
+- You will take Korean AIr 105
 9. 당신은 글렌 호텔에 머무를 것입니다
-- 
+- You will stay at Glen Hotel
 10. 당신은 점심 식사를 할 것입니다
-- 
+- You will have lunch
 11. 당신은 저녁 식사를 할 것입니다
-- 
+- You will have dinner
 12. 당신은 회의를 할 것입니다.
-- 
+- You will have a meeting
 13. 당신은 프레젠테이션을 할 것입니다
-- 
+- You will give a presentation
 14. 회의가 있기로 되어 있었으나 취소되었다
-- 
+- There was supposed to be a meeting but it has been canceled
 15. 원래는 화요일 오후 2시에 제인 화이트와의 회의가 있기로 되어 있었으나 금요일로 스케줄이 변경되었습니다.
-- 
+- There was supposed to be a meeting with Jane White at 2 pm on Tuesday but it has been rescheduled to Friday
 16. 그녀는 벤쿠버 예술 대학교에서 2010년에 디자인 전공으로 석사 학위를 취득했습니다.
-- 
+- She got a Master's degree in Design from Vancouver Art University in 2010
 17. 첫쨰로, 2015년부터 2017년까지, 그녀는 재스퍼 패션 잡지사에서 이사로 일했습니다.
-- 
+- First, from 2015 to 2017, she worked at Jasper Fashion Magazine as a director
 18. 다음으로는, 2017년부터 지금까지, 그겨는 토론토 패션 잡지사에서 편집장으로 일해 오고 있습니다.
 - 
 19. 그는 스페인어를 유창하게 구사합니다.
@@ -193,13 +195,6 @@
 - 
 25. 그는 편집장직에 지원하고 있습니다.
 - 
-
-(개인일정표)
-
-(면접일정표)
-
-
-
 
 ## Part 5
 1. 그들은 새로운 것을 배울 수 있다.
