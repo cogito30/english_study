@@ -4,37 +4,37 @@
 
 ## Part2
 1. 이 사진은 공원에서 찍힌 사진이다
-- 
+- This is a picture taken at a park
 2. 이 사진은 사무실에서 찍힌 사진이다.
-- 
+- This is a picture taken at an office
 3. 이 사진은 레스토랑에서 찍힌 사진이다.
-- 
+- This is a picture taken at a restaurant
 4. 이 사진은 도서관에서 찍힌 사진이다.
-- 
+- This is a picture taken at a library
 5. 이 사진은 실내에서 찍힌 사진이다.
-- 
+- This is a picture taken indoors
 6. 이 사진은 실외에서 찎힌 사진이다.
-- 
+- This is a picture taken outdoors
 7. 이 사진은 실험실에서 찍힌 사진이다.
-- 
+- This is a picture taken at a laboratory
 8. 이 사진은 옷 가게에서 찍힌 사진이다.
-- 
+- This is a picture taken at a clothing store
 9. 이 사진은 창고에서 찎힌 사진이다.
-- 
+- This is a picture taken at a warehouse
 10. 이 사진은 카페에서 찍힌 사진이다.
-- 
+- This is a picture taken at a cafe
 11. 이 사진은 구내식당에서 찍힌 사진이다.
-- 
+- This is a picture taken at a cafeteria
 12. 이 사진은 길 위에서 찍힌 사진이다.
-- 
+- This is a picture taken on the street
 13. 이 사진은 공사장에서 찍힌 사진이다.
-- 
+- This is a picture taken at a construction site
 14. 이 사진에서 가장 먼저 볼 수 있는 것은 두 명의 여자다.
-- 
+- The first thing I can see from the picture is two women
 15. 이 사진에서 가장 먼저 볼 수 있는 것은 세 명의 남자이다.
-- 
+- The first thing I can see from teh picture is three men
 16. 사진의 전면에서 나는 책상위에 올려진 많은 사무용품들을 볼 수 있다.
-- 
+- In the foreground of the picture, I can see a lot of office supplies on the desk
 17. 사진의 중심에, 분수대가 있다.
 - 
 18. 사진의 왼쪽에, 인도가 있다.
