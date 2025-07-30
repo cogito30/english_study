@@ -180,15 +180,15 @@
 17. 첫쨰로, 2015년부터 2017년까지, 그녀는 재스퍼 패션 잡지사에서 이사로 일했습니다.
 - First, from 2015 to 2017, she worked at Jasper Fashion Magazine as a director
 18. 다음으로는, 2017년부터 지금까지, 그겨는 토론토 패션 잡지사에서 편집장으로 일해 오고 있습니다.
-- 
+- Next, from 2017 up to now, she has worked at Toronto Fashion Magazine as a chief editor
 19. 그는 스페인어를 유창하게 구사합니다.
-- 
+- He is influent in Spanish
 20. 그녀는 자격증이 있습니다.
-- 
+- She has certificate
 21. 그는 교육 관련 경험이 있습니다.
-- 
+- He has experience in education
 22. 당신은 제시카 엔더슨과 오전 9시에 면접을 볼 것입니다.
-- 
+- You will interview Jessica Anderson at 9:00 am
 23. (마케팅 부장직에 지원하는) 에코 전자의 존 화이트씨와의 면접이 있습니다.
 - 
 24. 그녀는 5년의 업무 경력이 있습니다.
