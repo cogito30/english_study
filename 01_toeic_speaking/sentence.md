@@ -36,83 +36,83 @@
 16. 사진의 전면에서 나는 책상위에 올려진 많은 사무용품들을 볼 수 있다.
 - In the foreground of the picture, I can see a lot of office supplies on the desk
 17. 사진의 중심에, 분수대가 있다.
-- 
+- In the middle of the picture, There is a fountain
 18. 사진의 왼쪽에, 인도가 있다.
-- 
+- On the left side of the picture, There is a sidewalk
 19. 사진의 오른쪽에, 큰 창문이 있다.
-- 
+- On the right side of the picture, There is a large window
 20. 사진의 배경에서, 나는 많은 건물들과 나무들을 볼 수 있다.
-- 
+- In the background of the picture, I can see many buildings and trees
 21. 그녀의 옆에, 또 다른 여자가 있다.
-- 
+- Next to her, there is another woman
 22. 그녀의 뒤에, 서 있는 두명의 남자를 볼 수 있다
-- 
+- Behind her, I can see two men standing
 23. 그들 중 대부분은 정장을 입고 있다
-- 
+- Most of them are wearing formal clothes
 24. 그들 중 일부는 캐주얼을 입고 있다
-- 
+- Some of them are wearing casual clothes
 25. 사진을 찍고 있는 남자가 있다
-- 
+- There is a man taking a picture
 26. 그녀는 가방 안을 들여다보고 있다
-- 
+- She is looking into a bag
 27. 그는 고객들을 돕고 있다
-- 
+- He is helping customers
 28. 그녀는 강아지를 산택시키고 있다
-- 
+- She is walking a dog
 29. 그는 무언가를 들고 있다
-- 
+- He is holding something
 30. 그녀는 메뉴판을 보고 있다
-- 
+- She is looking at a menu
 31. 그는 무언가를 쓰고 있다
-- 
+- He is writing something down
 32. 그녀는 서류를 들고 있다
-- 
+- She is holding a document
 33. 그는 무언가를 찾고 있다
-- 
+- He is looking for something
 34. 그녀는 쇼핑백을 들고 있다
-- 
+- She is holding a shopping bag
 35. 그는 물건을 집으려고 손을 뻗고 있다
-- 
+- He is reaching for an item
 36. 그녀는 스마트폰을 보고 있다
-- 
+- She is looking at a smartphone
 37. 그는 물을 마시고 있다
-- 
+- He is drinknig some water
 38. 그녀는 요리를 하고 있다
-- 
+- She is cooking
 39. 그는 바닥에 누워 있다
-- 
+- He is lying on the ground
 40. 그녀는 유모차를 밀고 있다
-- 
+- She is pushing a baby stroller
 41. 그는 발표를 하고 있다
-- 
+- He is making a presentation
 42. 그녀는 음식을 고객들에게 서빙히고 있다
-- 
+- She is serving food to customers
 43. 그는 비닐봉지를 들고 있다
-- 
+- He is holding a plastic bag
 44. 그녀는 종이 한 장을 줍고 있다
-- 
+- She is picking up a piece of paper
 45. 그는 신용카드를 건네 주고 있다
-- 
+- He is handing over a credit card
 46. 그는 태블릿 PC를 사용하고 있다
-- 
+- He is using a tablet PC
 47. 그는 옷걸이에 옷을 걸고 있다
-- 
+- He is hanging his clothes on a rack
 48. 그녀는 컵을 들고 있다
-- 
+- She is holding a cup
 49. 그녀는 핸드백을 들고 있다
-- 
+- She is holding a purse
 50. 그는 음식을 전자레인지에 넣고 있다
-- 
+- He is putting some food into a microwave
 51. 그녀는 음식을 먹고 있다
-- 
+- She is eating some food
 52. 그는 자전거를 타고 있다
-- 
+- He is riding a bicycle
 53. 그녀는 전화 통화를 하고 있다
-- 
+- She is talking on the phone
 54. 그는 자켓을 입고 있다
-- 
+- He is wearing a jacket
 55. 그녀는 핸드백을 어깨에 메고 있다
-- 
+- She has her purse on her shoulder
 56. 그는 주문을 받고 있다
 - He is taking an order
 57. 그녀는 컴퓨터로 일하고 있다
