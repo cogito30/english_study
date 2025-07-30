@@ -114,35 +114,35 @@
 55. 그녀는 핸드백을 어깨에 메고 있다
 - 
 56. 그는 주문을 받고 있다
-- 
+- He is taking an order
 57. 그녀는 컴퓨터로 일하고 있다
-- 
+- She is working on a computer
 58. 그는 노트북으로 일하고 있다
-- 
+- He is working on a laptop
 59. 그는 게시판에 무언가를 붙이고 있다
-- 
+- He is putting something on the bulletin board
 60. 그는 백팩을 메고 있다
-- 
+- He is wearing backpacks
 61. 그는 보트를 타고 있다
-- 
+- He is riding a boat
 62. 그는 트럭에 박스를 싣고 있다
-- 
+- He is loading a box into a truck
 63. 그는 남색 티셔츠를 입고 있다
-- 
+- He is wearing a navy T-shirt
 64. 그는 패딩을 입고 있다
-- 
+- He is wearing a padded jumper
 65. 그는 한 손을 들고 있다
-- 
+- He is raising his hand
 66. 그는 청소기로 청소를 하고 있다
-- 
+- He is cleaning with a vaccum
 67. 그는 카트를 밀고 있다
-- 
+- He is pushing a cart/carring a cart
 68. 그는 갈색 코트를 입고 있다
-- 
+- He is wearing a brown coat
 69. 그는 제품을 보고 있다
-- 
+- He is looking at a product
 70. 그는 해변에서 쓰는 의자 위에서 쉬고 있다
-- 
+- He is relaxing on a bench chair
 71. 그들은 계단을 내려오고 있다
 - They are walking down the stairs
 72. 그들은 계산대에 서 있다
@@ -154,45 +154,45 @@
 75. 그들은 줄 서서 기다리고 있다
 - They are waiting in line
 76. 그들은 길을 건너고 있다
-- 
+- They are crossing the street
 77. 그들은 길을 걸어가고 있다
-- 
+- They are walking on the street
 78. 그들은 대화를 하고 있다
-- 
+- They are having a conversation
 79. 그들은 문서를 읽고 있다
-- 
+- They are reading a document
 80. 그들은 물건을 정리하고 있다
-- 
+- They are arranging items
 81. 그들은 발표자의 발표를 듣고 있다
-- 
+- They are listening to the presenter
 82. 그들은 벤치에 앉아 있다
-- 
+- They are sitting on a bench
 83. 그들은 복사기를 이용하고 있다
-- 
+- They are using a copy machine
 84. 그들은 서로 애기하고 있다
-- 
+- They are talking to each other
 85. 그들은 악기를 연주하고 있다
-- 
+- They are playing musical instruments
 86. 그들은 오토바이를 타고 있다
-- 
+- They are riding a motorcycle
 87. 그들은 유니폼을 입고 있다
-- 
+- They are wearing uniforms
 88. 그들은 일하고 있다
-- 
+- They are working
 89. 그들은 잔디 위에 앉아 있다
-- 
+- They are sitting on the grass
 90. 그들은 쉬고 있다
-- 
+- They are relaxing
 91. 그들은 지하철에 타고 있다
-- 
+- They are getting on the subway
 92. 그들은 카운터에 서 있다
-- 
+- They are standing at the counter
 93. 그들은 컴퓨터를 이용하고 있다
-- 
+- They are using computers
 94. 그들은 테이블에 앉아 있다
-- 
+- They are sitting at a table
 95. 그들은 해변에서 수영하고 있다
-- 
+- They are swimming at the beach
 96. 그들은 헬멧을 쓰고 있다
 - They are wearing helmets
 97. 그들은 화상회의를 하고 있다
