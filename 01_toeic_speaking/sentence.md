@@ -153,9 +153,154 @@
 - They are watching the performance
 75. 그들은 줄 서서 기다리고 있다
 - They are waiting in line
-76. 
-77. 
-78. 
+76. 그들은 길을 건너고 있다
+- 
+77. 그들은 길을 걸어가고 있다
+- 
+78. 그들은 대화를 하고 있다
+- 
+79. 그들은 문서를 읽고 있다
+- 
+80. 그들은 물건을 정리하고 있다
+- 
+81. 그들은 발표자의 발표를 듣고 있다
+- 
+82. 그들은 벤치에 앉아 있다
+- 
+83. 그들은 복사기를 이용하고 있다
+- 
+84. 그들은 서로 애기하고 있다
+- 
+85. 그들은 악기를 연주하고 있다
+- 
+86. 그들은 오토바이를 타고 있다
+- 
+87. 그들은 유니폼을 입고 있다
+- 
+88. 그들은 일하고 있다
+- 
+89. 그들은 잔디 위에 앉아 있다
+- 
+90. 그들은 쉬고 있다
+- 
+91. 그들은 지하철에 타고 있다
+- 
+92. 그들은 카운터에 서 있다
+- 
+93. 그들은 컴퓨터를 이용하고 있다
+- 
+94. 그들은 테이블에 앉아 있다
+- 
+95. 그들은 해변에서 수영하고 있다
+- 
+96. 그들은 헬멧을 쓰고 있다
+- 
+97. 그들은 화상회의를 하고 있다
+- 
+98. 그들은 회의를 하고 있다
+- 
+99. 나는 미소 짓는 여자를 볼 수 있다
+- 
+100. 그녀는 화면을 가리키는 중이다
+- 
+101. 그는 박스를 운반 중이다
+- 
+102. 그녀는 물건을 받고 있다
+- 
+103. 그들은 파라솔 밑에 앉아 있다
+- 
+104. 그들은 소풍을 하고 있다
+- 
+105. 그는 노를 젓고 있다
+- 
+106. 그녀는 낚시를 하고 있다
+- 
+107. 그는 책을 스캔하고 있다
+- 
+108. 그들은 책상에 앉아 있다
+- 
+109. 그는 벽에 기대고 있다
+- He is leaning against the wall
+110. 그녀는 곱슬머리를 가지고 있다
+- She has curly hair
+111. 그녀는 흰색 바지를 입고 있다
+- She is wearing white pants
+112. 그녀는 빨간색 스커트를 입고 있다
+- She is wearing a red skirt
+113. 그녀는 선글라스를 쓰고 있다
+- She is wearing sunglasses
+114. 그녀는 원피스를 입고 있다
+- She is wearing a dress
+115. 그녀는 전통의상을 입고 있다
+- She is wearing traditional clothes
+116. 그녀는 체크무늬 셔츠를 입고 있다
+- She is wearing a checkered shirt
+117. 그는 검은색 야구모자를 쓰고 있다
+- He is wearing a black cap
+118. 그는 금발 머리를 가지고 있다
+- He has blond hair
+119. 그는 반바지를 입고 있다
+- He is wearing shorts
+120. 그는 백발을 가지고 있다
+- He has gray hair
+121. 그는 손짓, 제스처를 취하고 있다
+- He is gesturing
+122. 그는 스웨터를 입고 있다
+- He is wearing a sweater
+123. 그는 안경을 쓰고 있다
+- He is wearing glasses
+124. 그는 작업복을 입고 있다
+- He is wearing working clothes
+125. 그는 조끼를 입고 있다
+- He is wearing a vest
+126. 그는 줄무늬 셔츠를 입고 있다
+- He is wearing a striped shirt
+127. 그는 짧은 머리를 가지고 있다
+- He has short hair
+128. 그는 청바지를 입고 있다
+- He is wearing jeans
+129. 제품들이 진열대 위에 진열되어 있다
+- Products are displayed on the shelves
+130. 나는 간판을 볼 수 있다
+- I can see a signboard
+131. 나는 교통 표지판과 신호등을 볼 수 있다
+- I cans see a traffic sign and a traffic light
+132. 나는 많은 쌓여 있는 박스들을 볼 수 있다
+- I can see many boxes stacked
+133. 나는 많은 주차된 차들을 볼 수 있다
+- I can see a lot of cars parked
+134. 나는 몇몇 보트들을 볼 수 있다
+- I can see some boats
+135. 나는 벽에 걸려 있는 그림 몇 개를 볼 수 있다
+- I can see some pictures on the wall
+136. 나는 옷걸이에 걸려 있는 옷들을 볼 수 있다
+- I can see some clothes hanging on a rack
+137. 나는 조명들을 볼 수 있다
+- I can see some lights
+138. 나는 진열된 많은 옷을 볼 수 있다
+- I can see a lot of clothes on display
+139. 나는 진열된 식료품들을 볼 수 있다
+- I can see groceries on display
+140. 나는 책장에 많은 책들을 볼 수 있다
+- I can see many books on the bookshelves
+141. 컴퓨터 모니터가 있다
+- There is a computer monitor
+142. 화이트 보드가 있다
+- There is a whiteboard
+143. 노점상이 있다
+- There is a street vendor
+144. 가로등이 있다
+- There is a street light
+145. 물품들이 선반 위에 정리되어 있다
+- Items are arranged on the shelves
+146. 전반적으로 그들은 바쁜 것 같다
+- Overall, it seems like they are busy
+147. 전반적으로 도시의 분주한 날 같다
+- Overall, it seems like a busy day in a city
+148. 전반적으로 아름다운 화창한 날씨인 것 같다
+- Overall, it seems like a beautiful sunny day
+149. 전반적으로 평화로운 날 같다
+- Overall, it seems like a peaceful day
 
 ## Part3
 1. 이것은 나의 스트레스를 풀어준다. 나는 요즘 스트레스를 많이 받았다. 그래서 이것이 필요하다
