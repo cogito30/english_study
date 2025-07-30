@@ -209,19 +209,19 @@
 - It will attract more customers
 50. 업체가 더 성공할 것이다.
 - The business will be more successful
-51. 
-- 
-52. 
-- 
-53. 
-- 
-54. 
-- 
-55. 
-- 
-56. 
-- 
-57. 
-- 
-58. 
-- 
+51. 사람들은 N을 자주 이용해서 더 효과적일 것이다.
+- People frequently use N so it will be very effective
+52. 이것은 그들의 스트레스를 풀어주고 그들은 쉴 수 있다
+- It relieves their stress and they can relax
+53. 이것은 그들의 (신체적/정신적) 건간에 좋다
+- It is good for their (physical/metal) health
+54. 이것은 그들의 건강에 좋지 않다
+- It is not good for their health
+55. 이것은 환경에 좋다
+- It is good for the environment
+56. 환경오염은 요즘 매우 심각한 문제다
+- Pollution is a serious issue these days
+57. 이것은 더 깨끗한 환경을 만들 수 있다
+- It can make a cleaner environment
+58. 우리는 환경을 보호할 수 있을 것이다.
+- We will be able to protect the environment
