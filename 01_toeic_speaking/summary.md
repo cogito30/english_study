@@ -1,5 +1,87 @@
  # 파트별 정리
 
+## 전체 요약
+#### Part2
+| 구성 | 예시 |
+| :---: | :---: |
+| 서론 | This is a picture taken \[at/in (장소) \| indoors \| outdoors\] | 
+| 전체요약(생략가능) | The first thing I can see from this picture is 사람/사물 | 
+| 세부사항(위치별) | In the foreground/middle/background of the picture, \[there is/are 사람/사물 \| I can see 단/복수명사\] | 
+| 세부사항(위치별) | On the left/right/both side of the picture, \[there is/are 사람/사물 \| I can see 단/복수명사\] | 
+| 마무리(1인 유형만) | Overall, It seems/looks like 주어 + 동사 |
+
+#### Part3
+(Q5-Q6)
+| 구성 | 예시 |
+| :---: | :---: |
+| 응답 | 질문 표현 + 의문사별 응답 |
+| 근거 1 | First of all, ~ |
+| 근거 2 | Secondly/Also, ~ |
+| 마무리 | So, Therefore, These are how ~ |
+
+(Q7)
+| 구성 | 예시 |
+| :---: | :---: |
+| 서론 | I think N is the most important (factor) |
+| 이유1 | First, ~ |
+| 이유2 | Second/Also, ~ |
+| 마무리(생략) | Therefore, 서론 문장 반복 |
+
+#### Part4
+(일정표)
+- It/행사 will be held + 시간/장소
+- It/행사 will start at 시각
+- It/행사 will finish at 시각 
+
+- There are two ~.
+- First, There is ~ on ~ by ~ at ~.
+- Next, There is ~ on ~ by ~ at ~.
++) 주제: on, about
++) 강연자: by
+
+(개인일정표)
+- S will V
+- You will depart from 출발지 on 비행편
+- You will arrive in 도착지
+- You will take 교통
+- You will stay at 장소
+- You wil have lunch/dinner/a meeting
+- S will give a speech/a lecture/a presentation
+- There was supposed to be 일정, but it has been canceled
+
+(이력서)
+- He/She got a bachelor's/master's degree in 전공 from 학교 in 년도
+- From 시작일 to 종료일, he/she worked at 회사명 as 직책
+- From 시작일 up to now, he/she has worked at 회사명 as 직책
+- He/She worked at 회사명 as 직책 in 연도
+
+(면접 일정표)
+- There is an interview with 사람 from 회사명 (who is applying for 직책)
+- It will be held on 날짜 at 장소
+- No, actually, there was supposed to be 일정, but it has been canceled 
+- He/She is applying for - position
+- Yes, First, from 시작시각 to 종료시각, there is an interview with 사람 from 이전직장. Second, from 시작시각 to 종료시각, there is an interview with 사람 from 이전직장
+
+(수업시간표)
+- If you V, it's ~ dollars
+- it's free
+- There is a 과목명 class/course
+- 강사 will teach 과목명 class/course
+- Yes. There are two classes (taught by 사람). First, from 시작시각 to 종료시각, on 요일, there is 강의명. Next, from 시작시각 to 종료시각, on 요일, there is 강의명.
+
+#### Part5
+| 구성 | 예시 |
+| :---: | :---: |
+| 서론 | 문제에 맞는 결론 |
+| 연결문장 | Let me explain why i think this way |
+| 이유1 | Most of all, S + V (if S + V) |
+| 예시1 | From my experience, S + V |
+| 이유2 | On top of that, S + V (if S + V) |
+| 예시2 | According to a recent news report, the majority of 사람들 in Korea said that S + V (if/when S + V) |
+| 결론 | Therefore, 서론 문장 반복 |
+
+-----
+
 ## Part1: 지문 읽기
 #### 1. 자음과 모음 정확히 발음하기
 - p/f, b/v, l/r, d/th, ou/o!, i/i~
