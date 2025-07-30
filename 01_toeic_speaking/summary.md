@@ -29,15 +29,18 @@
 (장소)
 - This photo was taken ~
 - This is a picture of ~
+
 (눈에 띄는 대상)
 - What I notice first is ~
 - The first thing I see is ~
+
 (주변 묘사)
 - In front of ~, I can see ~
 - Behind ~, ~ can be seen ~
 - On the left(right) side of ~, there is(are) ~
 - Above(Below) ~, there is(are) ~
 - In the foreground(background) of the picture, there is(are) ~
+
 (느낌/의견 묘사)
 - Generally(Basically), it seems like ~
 - Overall, it appears to be ~
@@ -47,14 +50,17 @@
 (장소)
 - 실내: at a restaurant / in an office / in a store / in a library / indoors
 - 실외: on a road / at a beach / in a park / in a market / outdoors
+
 (사람 동작)
 - 거리/공원: crossing a road / walking along the street / taking pictures / riding bicycles / sitting on a bench / walking dogs
 - 식당/상점/시장: taking an order / selecting an item from the shelf / pushing a shopping cart / studying a menu / standing at the counter / selling some fruit
 - 사무실/도서관/서점: talking on the phone / working on a computer / having a meeting / reading a document / writing something down / arranging books
 - 기타: facing each other / swimming at the beach / standing in line / riding a carriage / rowing a boat / playing musical instruments / preparing a meal / taking a rest
+
 (사람의 모습)
 - 헤어스타일/수염: has blond hair / has white hair / has a ponytail / is bald / has a bread / has a mustache
 - 복장/장신구: a suit / a coat / a swimsuit / a raincoat / glasses / a cap / gloves / sandals / boots
+
 (사물의 상태)
 - 거리/공원: 
 - 식당/상점/시장: 
