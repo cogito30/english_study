@@ -194,31 +194,31 @@
 95. 그들은 해변에서 수영하고 있다
 - 
 96. 그들은 헬멧을 쓰고 있다
-- 
+- They are wearing helmets
 97. 그들은 화상회의를 하고 있다
-- 
+- They are having a video conference
 98. 그들은 회의를 하고 있다
-- 
+- They are having a meeting
 99. 나는 미소 짓는 여자를 볼 수 있다
-- 
+- I can see a woman smilling
 100. 그녀는 화면을 가리키는 중이다
-- 
+- She is pointing at the screen
 101. 그는 박스를 운반 중이다
-- 
+- He is carrying a box
 102. 그녀는 물건을 받고 있다
-- 
+- She is receiving an item
 103. 그들은 파라솔 밑에 앉아 있다
-- 
+- They are sitting under the parasol
 104. 그들은 소풍을 하고 있다
-- 
+- They are having a picnic
 105. 그는 노를 젓고 있다
-- 
+- He is paddling a boat
 106. 그녀는 낚시를 하고 있다
-- 
+- She is fishing
 107. 그는 책을 스캔하고 있다
-- 
+- He is scanning a book
 108. 그들은 책상에 앉아 있다
-- 
+- They are sitting at a desk
 109. 그는 벽에 기대고 있다
 - He is leaning against the wall
 110. 그녀는 곱슬머리를 가지고 있다
