@@ -151,25 +151,77 @@
 - They can have more freedom
 21. 그들은 더 편안함을 느낀다
 - They feel more comfortable
-22.
+22. 이것은 재밌고 즐거움을 준다
+- It's fun and entertaining
+23. 그들은 정보를 얻고 다른 사람과 공유할 수 있다
+- They can get information and share it with other people
+24. 더 가족처럼 느껴진다
+- It feels more like a family
+25. 그들은 인터넷에서 많은 유용한 정보/최신 정보를 얻을 수 있다
+- They can get a lot of useful information/latest information on the internet
+26. 그들은 언제 어디서나 그들의 스마트폰으로 V 할 수 있다
+- They can 동사 anytime anywhere on their smartphones
+27. 이것은 더 빠르고 편리하다
+- It's faster and convenient
+28. 인터넷에는 많은 부정확한 정보가 있어서 믿을 만하지가 않다
+- There is a lot of inaccurate information on the internet so it's not reliable
+29. 이것은 학생들에게는 매우 집중을 분산시키는 것이라, 학생들은 공부에 집중할 수 없다
+- It is very distracting for students, so students can't focus on their studies
+30. 이것은 돈 낭비다
+- It's a waste of money
+31. 이것은 너무 지나치게 비싸다
+- It's too expensive
+32. 나는 즉각적인 답변을 받을 수 있다.
+- I can get responses right away
+33. 나는 화자의 감정을 더 정확하게 이해할 수 있다
+- I can understand the feeling of the speaker more accurately
+34. 그들은 좋은 (업무) 분위기를 만들 수 있다.
+- They can make a friendly (work) atmosphere
+35. 둘은 다른 사람들과 더 잘 소통할 수 있다
+- They can communicate with others better
+36. 그들은 좋은 팀플레이어가 될 수 있고, 다른 사람들과 좋은 관계를 맺을 수 있다
+- They can be good team players and make good relationships with others
+37. 그들은 좋은 평판을 가질 수 있다
+- They can have a good reputation
+38. 그들은 매우 영향력 있을 수 있다
+- They can be very influential
+39. 그들은 다른 사람들에게 동기를 부여할 수 있다
+- They can motivate others
+40. 모든 것이 급변하고 경쟁이 치열하다
+- Everything is always changing and there is a lot of competition
+41. 그들은 많은 도전과 어려움을 직면한다
+- They face a lot of challenges and difficulties
+42. 그는 그의 창의성 덕택에 다양한 상황을 잘 처리할 수 있다
+- He is able to handle a variety of situation due to his creativity
+43. 그들은 많은 경험/지식을 가지고 있다.
+- They have a lot of experience/knowledge.
+44. 직원들은 더 효율적이고 생산적으로 일할 수 있다.
+- Employees can work more efficiently and productively
+45. 직원들은 그들의 직장에 더 만족할 수 있다.
+- Employees can be more satisfied with their jobs
+46. 이것은 더 나은 업무 환경을 만든다
+- It can make a better work environment
+47. 프로페셔널하게 보이지 않을 수 있다
+- They might appear less professional
+48. 고객들은 만족할 것이고 고객 충성도를 유지할 것이다
+- Customers will feel satisfied and remain loyal
+49. 이것은 더 많은 고객을 끌어들일 것이다.
+- It will attract more customers
+50. 업체가 더 성공할 것이다.
+- The business will be more successful
+51. 
 - 
-23.
+52. 
 - 
-24.
+53. 
 - 
-25.
+54. 
 - 
-26.
+55. 
 - 
-27.
+56. 
 - 
-28.
+57. 
 - 
-29.
-- 
-30. 
-- 
-
-
 58. 
 - 
