@@ -121,36 +121,36 @@
 - They will be distracted
 6. 그들은 그들의 학업/업무에 집중할 수 없다 
 - They can't focus on their studies/work
-7. 
-- 
-8. 
-- 
-9. 
-- 
-10. 
-- 
-11.
-- 
-12.
-- 
-13.
-- 
-14.
-- 
-15.
-- 
-16.
-- 
-17.
-- 
-18.
-- 
-19.
-- 
-20.
-- 
-21. 
-- 
+7. 그들은 학교에서 좋은 성적을 받을 수 없다
+- They can't get good grades at school
+8. 그들은 학업이 뒤처질 것이다
+- They will fall behind in class
+9. 그들은 효율적으로 일할 수 없다
+- They can't work efficiently
+10. 그들은 돈을 절약할 수 있다
+- They can save money
+11. 생활비가 너무 비싸다
+- The cost of living is too high
+12. 그들은 먹고살기가 힘들다
+- They can't make a living
+13. 나는 (더) 높은 급여를 받을 수 있다
+- I can get a high(er) salary.
+14. N의 가격이 너무 비싸다
+- The cost of N is too expensive
+15. 이것은 돈 낭비다
+- It's a waste of money
+16. 그것은 좋은 투자인데 왜냐하면 삶을 더 낫게 만들어주기 때문이다.
+- That's a good investment because it makes lives better
+17. 그들은 더 잘 집중할 수 있다
+- They can focus better
+18. 그들은 다른 사람들에게 방해받지 않을 것이다.
+- They will not be distracted by others
+19. 그들은 그들의 스케줄을 정할 수 있다.
+- They can set their own schedule
+20. 그들은 더 자유로울 수 있다.
+- They can have more freedom
+21. 그들은 더 편안함을 느낀다
+- They feel more comfortable
 22.
 - 
 23.
