@@ -258,6 +258,7 @@
 (시간 전치사)
 - 날짜, 요일: On + 날짜/요일
 - 시각: At + 시각
+
 (장소 전치사)
 - 특정장소(주소): At + 특정 장소
 - 실내, 도시, 나라: In + 실내장소/도시/나라
@@ -265,17 +266,16 @@
 #### 3. 템플릿
 (일정표)
 - It/행사 will be held + 시간/장소
-- It/행사 will start at 시각
+- It/행사 will start at 시각 on 날짜/요일
 - It/행사 will finish at 시각 
 
 - There are two ~.
-- First, There is ~ on ~ by ~ at ~.
-- Next, There is ~ on ~ by ~ at ~.
+- First, There is ~ on 주제 by 사람 at 시각.
+- Next, There is ~ on 주제 by 사람 at 시각.
 +) 주제: on, about
 +) 강연자: by
 
 (개인일정표)
-- S will V
 - You will depart from 출발지 on 비행편
 - You will arrive in 도착지
 - You will take 교통
@@ -283,6 +283,13 @@
 - You wil have lunch/dinner/a meeting
 - S will give a speech/a lecture/a presentation
 - There was supposed to be 일정, but it has been canceled
+- I'm sorry, but you have the wrong information.
+- I'm sorry, but that information is in correct.
+- I'm sorry, but you're mistake.
+
+- There are two ~.
+- First, at 시각, there is ~
+- Next, at 시각, there is ~
 
 (이력서)
 - He/She got a bachelor's/master's degree in 전공 from 학교 in 년도
@@ -298,8 +305,8 @@
 - Yes, First, from 시작시각 to 종료시각, there is an interview with 사람 from 이전직장. Second, from 시작시각 to 종료시각, there is an interview with 사람 from 이전직장
 
 (수업시간표)
-- If you V, it's ~ dollars
-- it's free
+- If you are a member, It's free
+- If you are not a member, it's ~ dollars
 - There is a 과목명 class/course
 - 강사 will teach 과목명 class/course
 - Yes. There are two classes (taught by 사람). First, from 시작시각 to 종료시각, on 요일, there is 강의명. Next, from 시작시각 to 종료시각, on 요일, there is 강의명.
@@ -326,7 +333,10 @@
 - I agree/disagree with the statement(=this opinion)
 - Employees can work more efficiently and productively
 - Employees can be more satisfied with their jobs
-- 
+- For me, it was very helpful/beneficial because S + V
+- For me, it was not helpful at all because S + V
+- can -> be able to
+- people/children/colleage students/office workers/successful ceo/education experts
 
 
 
